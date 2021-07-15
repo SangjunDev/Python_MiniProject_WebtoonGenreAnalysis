@@ -1,6 +1,6 @@
 # Python_MiniProject_WebtoonGenreAnalysis
 
-주제 : 
+주제 : 네이버, 카카오페이지, 다음, 레진코믹스 4개의 주요 웹툰 플랫폼의 장르 분석
 
 # 프로젝트 기획서
 
